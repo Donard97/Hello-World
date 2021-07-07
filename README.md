@@ -1,9 +1,6 @@
 HELLO MICROVERSE 
 
-
 ![image](https://user-images.githubusercontent.com/74506933/124616781-a921bd80-de76-11eb-937c-d47f2afb7adc.png)
-
-
 
 BUILT WITH 
 
@@ -29,7 +26,6 @@ Feel free to check the issues page.
 Show your support
 
 Give a ⭐️ if you like this project!
-
 
 Acknowledgments
 
